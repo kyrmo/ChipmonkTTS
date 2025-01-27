@@ -1,0 +1,1 @@
+This program is a relatively straightforward TTS in which the voice is read aloud depending on which voice settings you have on an apple device, the program will emulate whatever is typed with a high pitch voice (i.e carmen winstead tts)
